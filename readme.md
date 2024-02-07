@@ -4,7 +4,7 @@ A simple landing page displaying social media links for Jessica Randall, a ficti
 
 ## Preview
 
-![Page Preview](./assets/images/screenshot.png)
+![Page Preview](./assets/images/desktop-design.png)
 
 ## Technologies
 
